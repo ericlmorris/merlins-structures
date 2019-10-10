@@ -1,2 +1,2 @@
 # merlins-structures
-Source code for the Minecraft mod Merlin's Structures
+ Schematics and resource packs
